@@ -1,12 +1,34 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Notes"
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<p style="color: #181717;">
+  Welcome to the Notes section. Below, you'll find mind maps I made for undergraduate-level 
+  Mathematical Analysis and Stochastic Process. These two courses share the same characteristics:
+  they have A LOT OF theorems, lemmas, etc. When I was studying them, I also felt very burdened by these courses
+  at first glance. So, I decided to make these mind maps that significantly helped me to comprehend 
+  and remember the structure and logic within the chapters and, very importantly, the "storyline" for the 
+  whole book (i.e. why the authors organized the chapters in the specific sequence).<br>
+  <br>
+  When making the mind maps, I kept asking myself two questions:<br>
+  1. If I'm the lecturer, how would I organize my lecture notes and handouts to help the students quickly understand?<br>
+  2. If I'm the lecturer, which theorem(s)/proof of theorem(s)/application of theorem(s) should I test the students? Why?<br>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <br>
+  These questions pushed me to fully understand the material's structure while making mind maps, and these maps 
+  helped me succeed in exams. So, I post them out, hoping to help more students struggling with these topics. 
+</p>
+
+
+<p style="font-size: 15px; color: #343131;">
+  Sorry for non-Chinese speakers that some Chinese annotations(not so much) were included because I tought I would be able to better comprehend the concepts
+  by using my mother language. 
+</p>
+
+{% for post in site.teaching %}
+  <h2 style="color: #000000;">{{ post.title }}</h2>
+  {{ post.content | markdownify }}
 {% endfor %}

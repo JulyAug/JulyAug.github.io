@@ -1,7 +1,24 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "&#10022; Manuscript Submitted for Review"
+excerpt: "<div style='text-align: center;'><img src='/images/article.png' style='width: 90%; height: auto;'></div>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Abstract and Highlights
+------
+Here is the [abstract](/images/Abstract.png).
+
+**Highlights**
+* Two Ordinary Differential Equation models developed to enhance informed river pollution management strategies.
+* The recovery time model estimates the time required to restore river quality under varying pollution levels.
+* The antidegradation model calculates the antidegradation scalars after water quality recovery.
+* A Python program is provided for easy implementation of models by policymakers.
+
+
+Contributions
+------
+* Identified the antidegradation problem in river water treatment and developed the Antidegradation Model.
+* Developed a user-friendly Python program that allows policymakers to implement the two ODE models.
+* Wrote the original draft of the research article.
+* Drew the graphical abstract and created all the charts used to explain models and strategies.
+* Formated the article in Latex and took charge of the submission process.

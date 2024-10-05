@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "My Academic Journey as an Apprentice Researcher"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <h2 style="color: #000000;">{{ post.title }}</h2>
+  <p>{{ post.excerpt | markdownify }}</p>  <!-- Use markdownify to parse markdown -->
+  {{ post.content | markdownify }}
 {% endfor %}
+
 
