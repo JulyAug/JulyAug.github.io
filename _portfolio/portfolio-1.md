@@ -1,18 +1,19 @@
 ---
-title: "&#10022; Manuscript Submitted for Review"
+title: "&#10022; Manuscript Submitted for Review (First Author)"
 excerpt: "<div style='text-align: center;'><img src='/images/gra_abstract.png' style='width: 90%; height: auto;'></div>"
 collection: portfolio
 ---
+**Xiaoyang Zhu** and Changying Hu (Submitted for Review). A Mathematical Guidance on Strategies for River Water Pollution Management Using Ordinary Differential Equations. 
 
 Abstract and Highlights
 ------
 Here is the [abstract](/images/Abstract.png).
 
 **Highlights**
-* Two Ordinary Differential Equation models developed to enhance informed river pollution management strategies.
+* Two Ordinary Differential Equation models are developed to enhance informed river pollution management strategies.
 * The recovery time model estimates the time required to restore river quality under varying pollution levels.
 * The antidegradation model calculates the antidegradation scalars after water quality recovery.
-* A Python program is provided for easy implementation of models by policymakers.
+* A Python program is provided for policymakers to easily implement models.
 
 
 Contributions
