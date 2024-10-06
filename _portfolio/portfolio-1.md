@@ -1,6 +1,6 @@
 ---
 title: "&#10022; Manuscript Submitted for Review"
-excerpt: "<div style='text-align: center;'><img src='/images/article.png' style='width: 90%; height: auto;'></div>"
+excerpt: "<div style='text-align: center;'><img src='/images/gra_abstract.png' style='width: 90%; height: auto;'></div>"
 collection: portfolio
 ---
 
