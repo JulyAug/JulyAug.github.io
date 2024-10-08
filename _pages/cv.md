@@ -81,7 +81,7 @@ Core Coursework
   * Principles of Macroeconomics
 
 
-Independently Learned Courses
+Independently Learned Courses (Selected Ones)
 ======
 * [Calculus III (Multivariable Calculus)](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) lectured by Professor Leonard. Completed in 2022.11.
 * [Statistics](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0) lectured by Professor Leonard. Completed in 2022.10.
