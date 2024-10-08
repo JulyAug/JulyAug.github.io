@@ -81,6 +81,14 @@ Core Coursework
   * Principles of Macroeconomics
 
 
+Independently Learned Courses
+======
+* [Calculus III (Multivariable Calculus)](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) made by Professor Leonard. Completed in 2022.11.
+* [Statistics](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0) made by Professor Leonard. Completed in 2022.10.
+* [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_) made by Professor Leonard. Completed in 2022.10.
+* Undergraduate & Graduate level [Real Analysis from MIT OpenCourseWare (Course 18.100A, Fall 2020)](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/). Completed in 2023.04.
+* [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) lectured by Dr. Andrew Ng. Completed in 2023.07.
+
 Language Proficiency and Skills
 ======
 * Language Proficiency: TOEFL iBT: 109/120
@@ -89,10 +97,6 @@ Language Proficiency and Skills
   * LaTeX: Experienced in creating research paper and reports using Latex.
   * AI Tool: Proficient in customizing and iterating on ChatGPT for language and paragraph structure polishing.
 
-  
-Self-Learning
-======
-* Independently learned undergraduate & graduate level Real Analysis from [MIT OpenCourseWare (Course 18.100A, Fall 2020)](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/).
   
 Leadership Experience
 ======
