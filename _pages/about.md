@@ -19,6 +19,18 @@ My current research interests include statistical learning, computational statis
                                                                   
 ***<p style="color: #000000;">Adaptation + Strong Independent-learning Ability (See "Research" and "Note") + Motivation (Career Goal) ==  A Good Potential PhD Student</p>***
 
+<center>
+<span style="font-size: 24px;"><strong>Adaptation</strong></span> +
+
+<span style="font-size: 24px;"><strong>Strong Independent-learning Ability</strong></span><br>
+(See <a href="#research">Research</a> and <a href="#note">Note</a>) +
+
+<span style="font-size: 24px;"><strong>Motivation</strong></span><br>
+(Career Goal) == 
+
+<span style="font-size: 24px;"><strong>A Good Potential PhD Student</strong></span>
+</center>
+
 <br><br>
 
 <span style="color:blue">Career Goal</span>
