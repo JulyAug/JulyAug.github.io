@@ -17,25 +17,14 @@ I'm applying for PhD in Statistics and related fields starting in the Fall of 20
 
 My current research interests include statistical learning, computational statistics, inferential statistics (especially for fiducial inference), and nonparametric statistics. I look forward to adapting and refining my interests to align with my future advisor’s research focus and contribute to ongoing projects. <br>
                                                                   
-***<p style="color: #000000;">Adaptation + Strong Independent-learning Ability (See "Research" and "Note") + Motivation (Career Goal) ==  A Good Potential PhD Student</p>***
+***Adaptation + Strong Independent-learning Ability (See "Research" and "Note") + Motivation (Career Goal) ==  A Good Potential PhD Student***
 
-<center>
-<span style="font-size: 24px;"><strong>Adaptation</strong></span> +
-
-<span style="font-size: 24px;"><strong>Strong Independent-learning Ability</strong></span><br>
-(See <a href="#research">Research</a> and <a href="#note">Note</a>) +
-
-<span style="font-size: 24px;"><strong>Motivation</strong></span><br>
-(Career Goal) == 
-
-<span style="font-size: 24px;"><strong>A Good Potential PhD Student</strong></span>
-</center>
 
 <br><br>
 
-<span style="color:blue">Career Goal</span>
+Career Goal
 ======
-My goal is to pursue a career as a college professor. I always think I'm very lucky to find that there is a job that can combine my love for discovering new things and my desire to share what I have learned with others. 
+My goal is to pursue a career as a college professor. I think I'm very lucky to find a job that can combine my love for discovering new things with my desire to share what I have learned with others. 
 
 I'm keen to build and practice my teaching skills through being a teaching assistant in my PhD study. Upon completing PhD, my goal is to be capable of conveying information understandably to the targeted audience. This goal may sound simple, but I know it involves many tasks like speaking while noticing the students' responses, knowing the hard points for most students, writing structured lecture notes and handouts, organizing supportive TA lessons, etc. I believe the capability of conveying is the first step toward a qualified college teacher.
 
