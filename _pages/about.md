@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Math major fourth-year undergraduate student specilizing in Statistics and Data Science at the [University of Macau](https://www.um.edu.mo/). I'm expected to graduate in June 2025. Feel free to contact me at: dc12569@um.edu.mo
+I'm a Math major fourth-year undergraduate student specializing in Statistics and Data Science at the [University of Macau](https://www.um.edu.mo/). I'm expected to graduate in June 2025. Feel free to contact me at: dc12569@um.edu.mo
 
 <br>
 
 <span style="color: #FF7F50;">&#10022; Applying for 25Fall PhD &#10022;</span>
 ======
-I'm applying for PhD in Statistics/Statistics and Operational Research/Statistical Science/Biostatistics starting in the Fall of 2025. <br>
+I'm applying for PhD in Statistics and related fields starting in the Fall of 2025. <br>
 
-I have an eclectic range of research interests across multiple areas of statistics. Whether engaging with abstract theoretical statistics or working on tangible, interdisciplinary statistical problems, I find each area intriguing and exciting. Because of this diverse interest, I am highly adaptable and open to engaging with a wide range of research problems. <br>
+My current research interests include statistical learning, computational statistics, inferential statistics (especially for fiducial inference), and nonparametric statistics. I look forward to adapting and refining my interests to align with my future advisor’s research focus and contribute to ongoing projects. <br>
                                                                   
-<p style="color: #000000;">Adaptation + Strong Self-learning Ability (See "Research" and "Note") + Motivation (Career Goal) ==  A Good Potential PhD Student</p>
+***<p style="color: #000000;">Adaptation + Strong Independent-learning Ability (See "Research" and "Note") + Motivation (Career Goal) ==  A Good Potential PhD Student</p>***
 
 <br><br>
 
-Career Goal
+<span style="color:blue">Career Goal</span>
 ======
 My goal is to pursue a career as a college professor. I always think I'm very lucky to find that there is a job that can combine my love for discovering new things and my desire to share what I have learned with others. 
 
