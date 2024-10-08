@@ -1,5 +1,5 @@
 ---
-title: "&#10022; Classification and Identfication of Kidney Disease Using Urine Samples"
+title: "&#10022; Identification and Classification of Kidney Diseases Using Urine Samples"
 excerpt: "<div style='text-align: center;'><img src='/images/Patients_Cluster.png' style='width: 80%; height: auto;'></div>"
 collection: portfolio
 ---
@@ -11,7 +11,7 @@ Motivation:
 What I’ve Done:
 ------
 * Reviewed a few recent highly cited articles about using Machine Learning Models to identify and classify human diseases.
-  * Made a [mind map](/files/Summary.pdf) to summarize the essentials in the papers. (Sorry that some Chinese characters were included becuase we were communicated in Chinese.)
+  * Made a [mind map](/files/Summary.pdf) to summarize the essentials in the papers. (Sorry that some Chinese characters were included because we were communicating in Chinese.)
 
 * Independently studied the theory behind some feature selection techniques and unsupervised learning models through YouTube tutorials, with a particular focus on understanding the rationale for selecting specific techniques and models based on the problem at hand.
   * Implemented sample code from the tutorials and analyzed the purpose of each step to fully understand the processes.
