@@ -1,9 +1,9 @@
 ---
-title: "&#10022; Manuscript Submitted for Review (First Author)"
+title: "&#10022; Publication (First Author)"
 excerpt: "<div style='text-align: center;'><img src='/images/gra_abstract.png' style='width: 90%; height: auto;'></div>"
 collection: portfolio
 ---
-**Xiaoyang Zhu** and Changying Hu*. _A Mathematical Guidance on River Water Pollution Management Strategies Using Ordinary Differential Equations._ (202x) Under Review at _Environmental Modeling & Software_ (Impact Factor: 4.8 | CiteScore: 9.3 (Ranks 6/41 in Ecological Modeling)). 
+**Xiaoyang Zhu** and Changying Hu*. _A Mathematical Guidance on River Water Pollution Management Strategies Using Ordinary Differential Equations._ (202x) Under Review at _Environmental Modeling & Software_ (Impact Factor: 4.8 | CiteScore: 9.3). 
 
 Abstract and Highlights
 ------
